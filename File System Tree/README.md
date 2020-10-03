@@ -12,5 +12,5 @@ user cmd
 10.menu: usage: menu, it shows the available commands.
 11.quit: usage: quit, terminate program.
 
----------------Binary Search Tree will be used as general tree--------------
+Binary Search Tree will be used as general tree
 ![Alt text](image.png)
