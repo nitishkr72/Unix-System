@@ -14,4 +14,5 @@ user cmd
 11.quit: usage: quit, terminate program.
 ```
 Binary Search Tree will be used as general tree
+
 ![Screenshot](image.png)
