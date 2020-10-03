@@ -11,3 +11,6 @@ user cmd
 9. reload: usage: reload <filename>, construct a file system tree from a file
 10.menu: usage: menu, it shows the available commands.
 11.quit: usage: quit, terminate program.
+
+Binary Search Tree will be used as general tree, 
+
