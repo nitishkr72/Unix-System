@@ -1,6 +1,7 @@
 # File-system-tree
-user cmd
+
 ```
+User Commands-
 1. mkdir: usage: mkdir <pathname>, create directory on given pathname
 2. rmdir: usage: rmdir <pathname>, remove directory from its path
 3. cd: usage: cd <pathname>, change CWD to given pathname
