@@ -1,5 +1,6 @@
-File-system-tree
+#File-system-tree
 user cmd
+```
 1. mkdir: usage: mkdir <pathname>, create directory on given pathname
 2. rmdir: usage: rmdir <pathname>, remove directory from its path
 3. cd: usage: cd <pathname>, change CWD to given pathname
@@ -11,6 +12,6 @@ user cmd
 9. reload: usage: reload <filename>, construct a file system tree from a file
 10.menu: usage: menu, it shows the available commands.
 11.quit: usage: quit, terminate program.
-
+```
 Binary Search Tree will be used as general tree
 ![Screenshot](image.png)
