@@ -1,11 +1,11 @@
-## Unix-System
+# Unix-System
 a simple operating system project
 
-# File-system-tree
+## File-system-tree
 
 
 
-# intial-utilities
+## intial-utilities
 ```
    wcat is a simple implementaion of cat
    wgrep is implementation of grep
